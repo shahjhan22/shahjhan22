@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahjhan Alam</h1>
 <h3 align="center">A passionate Data Science</h3>
 
-<p align="right"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codsoft.in%2F&psig=AOvVaw3-S8nQO1oY38s6_15xBrze&ust=1723461987795000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiTnrDq7IcDFQAAAAAdAAAAABAP" alt="shahjhan22" /> </p>
-
 - 🌱 I’m currently learning **Data science**
 
 - 👨‍💻 All of my projects are available kaggle/Github
